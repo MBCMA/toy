@@ -5,5 +5,5 @@
 | Duarte José Silva Fernandes   | pg62830 |              |
 | Francisco Lopes da Cunha      | pg48479 |              |
 | Helder José Freitas Porto     | pg59513 |              |
-| Iara Luísa Silva Delgado      | pg62847 |              |
+| Iara Luísa Silva Delgado      | pg62847 |oi            |
 | Jorge Moutinho                | ?       |              |
